@@ -5,6 +5,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 
+![GitHub followers](https://img.shields.io/github/followers/M1cke01?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/M1cke01?style=social) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=M1cke01.repoName) 
+<img src="https://komarev.com/ghpvc/?username=M1cke01" alt="M1cke01" />
+
+
 ## About Me :
 
 - 🏢 I am currently a recent graduate in Nanotechnology Engineering from UDG, and I'm pursuing the Fullstack Python program at EBAC.
