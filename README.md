@@ -40,7 +40,7 @@
 
 <br>
 
-(![M1cke01's Stats](https://github-readme-stats.vercel.app/api?username=M1cke01&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true))
+![M1cke01's Stats](https://github-readme-stats.vercel.app/api?username=M1cke01&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
 
 <br>
 
