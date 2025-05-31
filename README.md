@@ -42,6 +42,7 @@
 
 ![M1cke01's Stats](https://github-readme-stats.vercel.app/api?username=M1cke01&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
 ![M1cke01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=M1cke01&theme=great-gatsby&hide_border=true)
+![M1cke01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1cke01&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
 <br>
 
