@@ -8,7 +8,7 @@
 
 ## About Me :
 
-- 🏢 I am currently a recent graduate in Nanotechnology Engineering from UDG, and I'm pursuing the Fullstack Python program at EBAC.
+- 🏢 I am a recent graduate in Nanotechnology Engineering from UDG, and I'm pursuing the Fullstack Python program at EBAC.
 - 🏢 I have taken courses in Domotics at Laika, IoT at Samsung, and Robotics at Ciudad Creativa Digital.
 - 🎓 I graduated from UDG and continue my education in programming and technology.
 - 🏡'Lives in **Guadalajara, Jalisco**
