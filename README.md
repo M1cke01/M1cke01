@@ -32,6 +32,8 @@
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/sass.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
 <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F20680%2Fhd-python-logo-symbol-transparent-png&psig=AOvVaw37Je0juckkZgm6Ncifl9TA&ust=1757100398848000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNia9pnrv48DFQAAAAAdAAAAABAE"/> 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FiTiiwox_django-development-png-transparent-django-logo-png-download%2F&psig=AOvVaw0NpObQhXMdM8pmNYBVgzgN&ust=1757100443519000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiYnbDrv48DFQAAAAAdAAAAABAK"/>
 
 
 <br>
