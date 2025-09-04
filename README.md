@@ -57,7 +57,7 @@
 ##Projects 🚀
 
 - [E-commerce Completo](https://github.com/M1cke01/e-commerce-completo) – Fullstack project using React and Django, implemented shopping cart, payment system, and user authentication.
-- [AI Chatbot](https://github.com/M1cke01/AI-chatbot) – Chatbot built with JavaScript, HTML, and CSS, capable of responding to user queries.
+- [Pokedex](https://github.com/M1cke01/Pokedex) – Interactive Pokédex built with React and PokeAPI, allowing users to explore and search Pokémon with detailed information.
 - [Forms](https://github.com/M1cke01/Forms) – User registration system with Django, includes form validation and database integration.
 
 Last edited on: 26/04/2025
