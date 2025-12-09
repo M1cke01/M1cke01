@@ -35,7 +35,7 @@
 
 <br>
 
-## GitHub Stats 📈 :
+<!-- ## GitHub Stats 📈 :
 
 <br>
 
@@ -43,7 +43,7 @@
 ![M1cke01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=M1cke01&theme=great-gatsby&hide_border=true) <br>
 ![M1cke01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1cke01&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
-<br>
+<br> -->
 
 
 ##Projects 🚀
@@ -52,4 +52,4 @@
 - [Pokedex](https://github.com/M1cke01/Pokedex) – Interactive Pokédex built with React and PokeAPI, allowing users to explore and search Pokémon with detailed information.
 - [Forms](https://github.com/M1cke01/Forms) – User registration system with Django, includes form validation and database integration.
 
-Last edited on: 26/04/2025
+Last edited on: 09/12/2025
