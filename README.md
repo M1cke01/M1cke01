@@ -30,12 +30,50 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/sass.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/office/48/000000/react.png"/> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/npm.png"/>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/django.png"/>
-<img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/api.png"/> 
-<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" title="Django" />
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" />
+<!-- HTML -->
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
+
+<!-- CSS -->
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+
+<!-- SASS -->
+<img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" />
+
+<!-- JavaScript -->
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+
+<!-- TypeScript -->
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+
+<!-- React -->
+<img src="https://img.icons8.com/office/48/000000/react.png" alt="React" />
+
+<!-- Redux -->
+<img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
+
+<!-- Node.js -->
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+
+<!-- NPM -->
+<img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" />
+
+<!-- Python -->
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
+
+<!-- Django -->
+<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
+
+<!-- MySQL -->
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+
+<!-- SQLite -->
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" />
+
+<!-- Docker -->
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+
+<!-- Linux -->
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
 
 
 <br>
