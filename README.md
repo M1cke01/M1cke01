@@ -8,10 +8,12 @@
 
 ## About Me :
 
-- 🏢 I am a recent graduate in Nanotechnology Engineering from UDG, and I'm pursuing the Fullstack Python program at EBAC.
+<!-- - 🏢 I am a recent graduate in Nanotechnology Engineering from UDG, and I'm pursuing the Fullstack Python program at EBAC.
 - 🏢 I have taken courses in Domotics at Laika, IoT at Samsung, and Robotics at Ciudad Creativa Digital.
 - 🎓 I graduated from UDG and continue my education in programming and technology.
-- 🏡'Lives in **Guadalajara, Jalisco**
+- 🏡'Lives in **Guadalajara, Jalisco** -->
+
+Full Stack Python Developer with experience in designing and developing RESTful APIs with Django, dynamic interfaces with React, and scalable architectures. Proficient in Docker, AWS, and automated testing practices. My engineering background allows me to approach problems with an analytical and multidisciplinary perspective. I excel at adaptability, initiative, and teamwork in agile environments.
 
 <br>
 
